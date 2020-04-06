@@ -1,4 +1,22 @@
 ## To Do List задача
+Controllers -> auth
+->SubTaskController
+->TaskController
+
+policies
+->SubTaskPolicy.php
+->TaskControllerPolicy.php
+
+Repositories
+->SubTask.php
+->TaskPolicy.php
+
+Database
+    migrations
+
+Layouts
+->errors.blade.php
+->index.blade.php
 
 
 
