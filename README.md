@@ -1,22 +1,35 @@
 ## To Do List задача
 Controllers -> auth
 ->SubTaskController
+<br>
 ->TaskController
-
+<br>
+<br>
 policies
+<br>
 ->SubTaskPolicy.php
+<br>
 ->TaskControllerPolicy.php
+<br>
+<br>
 
 Repositories
+<br>
 ->SubTask.php
+<br>
 ->TaskPolicy.php
-
+<br>
+<br>
 Database
+<br>
     migrations
 
 Layouts
+<br>
 ->errors.blade.php
+<br>
 ->index.blade.php
+<br>
 
 
 
