@@ -1,3 +1,39 @@
+## To Do List задача
+Controllers -> auth
+<br>
+->SubTaskController
+<br>
+->TaskController
+<br>
+<br>
+policies
+<br>
+->SubTaskPolicy.php
+<br>
+->TaskControllerPolicy.php
+<br>
+<br>
+
+Repositories
+<br>
+->SubTask.php
+<br>
+->TaskPolicy.php
+<br>
+<br>
+Database
+<br>
+    migrations
+
+Layouts
+<br>
+->errors.blade.php
+<br>
+->index.blade.php
+<br>
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
